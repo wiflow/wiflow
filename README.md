@@ -24,7 +24,7 @@ I'm a developer based in **Denmark** 🇩🇰. I enjoy working with automation, 
 
 ---
 
-### 🚀 Recent Projects
+### Recent Projects
 
 | Project | Description | Platform |
 | :--- | :--- | :--- |
