@@ -1,45 +1,74 @@
-# Hi there, I'm Wi-Flow! 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="WIFLOW — backend & game-server developer" width="100%">
+</p>
 
-I'm a developer based in **Denmark** 🇩🇰. I enjoy working with automation, gaming tools, and backend development.
+# Hi, I'm Wi-Flow 👋
 
----
+Backend, game-server and infrastructure developer from Denmark 🇩🇰. I build server cores, plugins and the networks they run on, mostly in **Rust**, **Kotlin**, **Java** and **Node.js**.
 
-### 🛠️ Tech Stack
+- 🦀 Contributing to **[Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)**, a Minecraft server written in Rust: entity AI, world saving, vanilla parity
+- 🧩 Building plugins for **Paper** and **Hytale**: [OrbisGuard](https://github.com/wiflow/OrbisGuard), [WiFlowPlaceholderAPI](https://docs.wiflow.dev), [ViaFlow](https://github.com/wiflow/ViaFlow)
+- 🌐 Running infrastructure and enterprise networking: **Proxmox** clusters, **GRE tunnelling**, routing and firewalls, **Cloudflare** at the edge, and the dashboards to manage it ([Tainer](https://github.com/wiflow/Tainer))
+- 💬 Reach me on Discord: `w1fl0w`
+
+## 🛠️ Tech stack
+
 **Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Cloud & Tools**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,kotlin,java,nodejs" height="56" alt="Rust, Kotlin, Java, Node.js"></a>
+  &nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,cs,dotnet" height="40" alt="TypeScript, Python, C#, .NET"></a>
+</p>
 
-**Design**
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+**Infrastructure & networking**
 
----
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,azure,gcp" height="40" alt="Linux, Docker, Nginx, Cloudflare, Azure, Google Cloud"></a>
+</p>
 
-### Recent Projects
+<sub>Proxmox clusters &nbsp;·&nbsp; GRE tunnelling &nbsp;·&nbsp; enterprise routing, VLANs and firewalls</sub>
 
-| Project | Description | Platform |
-| :--- | :--- | :--- |
-| **[LiteLaby](https://modrinth.com/plugin/litelaby)** | A server-side integration that syncs **LiteBans** mutes to **LabyMod** voice chat in real-time. Automatically mutes/unmutes players on voice when punished. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **[RegionBarrier](https://modrinth.com/plugin/regionbarrier)** | Packet-based barrier walls for **WorldGuard** regions. Creates fake visual glass walls for non-donors without affecting server performance. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+**Tooling**
 
----
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gradle,maven,mongodb,mysql,git,blender" height="40" alt="Gradle, Maven, MongoDB, MySQL, Git, Blender"></a>
+</p>
 
-### 📬 Connect with me
-* **Discord:** `w1fl0w`
+## 🤝 Contributions
 
----
+Pull requests to projects I don't own. &nbsp; ✅ merged &nbsp; 🔄 open
 
-<div align="center">
+| | Repository | Pull request |
+|:-:|:--|:--|
+| ✅ | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | [Make piglins pick up and barter dropped gold](https://github.com/Pumpkin-MC/Pumpkin/pull/3440) |
+| 🔄 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | [Add the vanilla brain framework for entity AI](https://github.com/Pumpkin-MC/Pumpkin/pull/3490) |
+| 🔄 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | [Save entity chunks as a snapshot instead of appending](https://github.com/Pumpkin-MC/Pumpkin/pull/3494) |
+| 🔄 | [Pumpkin-MC/Pumpkin-Website](https://github.com/Pumpkin-MC/Pumpkin-Website) | [Vanilla parity tracker page](https://github.com/Pumpkin-MC/Pumpkin-Website/pull/39) |
+| ✅ | [FancyInnovations/FancyPlugins](https://github.com/FancyInnovations/FancyPlugins) | [FancyNPCs 3.0.0: major architecture refactor](https://github.com/FancyInnovations/FancyPlugins/pull/191) |
+| ✅ | [FancyInnovations/FancyPlugins](https://github.com/FancyInnovations/FancyPlugins) | [FancyDialogs: argument support in dialogs](https://github.com/FancyInnovations/FancyPlugins/pull/182) |
+| ✅ | [FancyInnovations/FancyPlugins](https://github.com/FancyInnovations/FancyPlugins) | [FancyHolograms: fix DecentHolograms converter path and offset](https://github.com/FancyInnovations/FancyPlugins/pull/180) |
+| 🔄 | [FancyInnovations/FancyPlugins](https://github.com/FancyInnovations/FancyPlugins) | [FancyNPCs: BetterModel integration](https://github.com/FancyInnovations/FancyPlugins/pull/181) |
+| ✅ | [Leclowndu93150/Chat-Customization](https://github.com/Leclowndu93150/Chat-Customization) | [WiFlowPlaceholderAPI support](https://github.com/Leclowndu93150/Chat-Customization/pull/4) and [docs](https://github.com/Leclowndu93150/Chat-Customization/pull/5) |
+| ✅ | [LabyMod/server-media](https://github.com/LabyMod/server-media) | [SvaneMC server media](https://github.com/LabyMod/server-media/pull/1328) |
+| ✅ | [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) | [Dynamic stream config](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/pull/87), [last-drop league](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/pull/96), [next-match countdown](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/pull/99) |
 
-[![Wi-Flow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiflow&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/wiflow)
+## 🚀 Projects
 
-</div>
+| Project | Stack | Description |
+|:--|:--|:--|
+| [**Carver**](https://github.com/wiflow/Carver) | Rust · WASM | FastAsyncWorldEdit-class world editing for Pumpkin, shipped as a WebAssembly plugin |
+| [**kestrel-client**](https://github.com/wiflow/kestrel-client) | Rust | Clean-room Minecraft: Java Edition client built on azalea and wgpu |
+| [**OrbisGuard**](https://github.com/wiflow/OrbisGuard) | Java | Region protection for Hytale servers, with a [mixin module](https://github.com/wiflow/OrbisGuard-Mixins) that hooks server internals |
+| [**WiFlowPlaceholderAPI**](https://docs.wiflow.dev) | Java | Centralised placeholder API for Hytale plugins, with an expansion marketplace |
+| [**ViaFlow**](https://github.com/wiflow/ViaFlow) | Java | LabyMod 4 addon that bundles ViaVersion for cross-version server joins |
+| [**Tainer**](https://github.com/wiflow/Tainer) | TypeScript | Self-service Proxmox LXC/VM management dashboard |
+| [**LiteLaby**](https://modrinth.com/plugin/litelaby) | Java | Syncs LiteBans mutes to LabyMod voice chat in real time |
+| [**RegionBarrier**](https://modrinth.com/plugin/regionbarrier) | Java | Packet-based glass barrier walls around WorldGuard regions, no server-side blocks |
+
+## 📈 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiflow/wiflow/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/wiflow/wiflow/output/github-snake.svg" alt="Contribution snake" width="100%">
+</picture>
